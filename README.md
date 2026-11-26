@@ -10,3 +10,5 @@ Work with [Tampermonkey](https://www.tampermonkey.net/) extension. Change "https
 **Ctrk + K** or **/** - goto search
 
 **Alt + Z** - back to original
+
+https://github.com/user-attachments/assets/fed00aa0-d070-40fc-91ed-d5346ef016d2
